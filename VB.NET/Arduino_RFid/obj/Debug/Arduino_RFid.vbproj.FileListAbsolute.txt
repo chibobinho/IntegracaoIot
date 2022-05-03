@@ -1,0 +1,36 @@
+C:\Users\Programacao\AppData\Local\Temporary Projects\Arduino_RFid\bin\Debug\Arduino_RFid.exe.config
+C:\Users\Programacao\AppData\Local\Temporary Projects\Arduino_RFid\bin\Debug\Arduino_RFid.exe
+C:\Users\Programacao\AppData\Local\Temporary Projects\Arduino_RFid\bin\Debug\Arduino_RFid.pdb
+C:\Users\Programacao\AppData\Local\Temporary Projects\Arduino_RFid\bin\Debug\Arduino_RFid.xml
+C:\Users\Programacao\AppData\Local\Temporary Projects\Arduino_RFid\obj\Debug\Arduino_RFid.Form1.resources
+C:\Users\Programacao\AppData\Local\Temporary Projects\Arduino_RFid\obj\Debug\Arduino_RFid.Resources.resources
+C:\Users\Programacao\AppData\Local\Temporary Projects\Arduino_RFid\obj\Debug\Arduino_RFid.vbproj.GenerateResource.Cache
+C:\Users\Programacao\AppData\Local\Temporary Projects\Arduino_RFid\obj\Debug\Arduino_RFid.exe
+C:\Users\Programacao\AppData\Local\Temporary Projects\Arduino_RFid\obj\Debug\Arduino_RFid.xml
+C:\Users\Programacao\AppData\Local\Temporary Projects\Arduino_RFid\obj\Debug\Arduino_RFid.pdb
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\obj\Debug\Interop.ADODB.dll
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\obj\Debug\Arduino_RFid.vbproj.ResolveComReference.cache
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\obj\Debug\Arduino_RFid.Form1.resources
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\obj\Debug\Arduino_RFid.Resources.resources
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\obj\Debug\Arduino_RFid.vbproj.GenerateResource.Cache
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\bin\Debug\Arduino_RFid.exe.config
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\bin\Debug\Arduino_RFid.exe
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\bin\Debug\Arduino_RFid.pdb
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\bin\Debug\Arduino_RFid.xml
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\obj\Debug\Arduino_RFid.exe
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\obj\Debug\Arduino_RFid.xml
+C:\Users\Programacao\Documents\Visual Studio 2012\Projects\Arduino_RFid\Arduino_RFid\obj\Debug\Arduino_RFid.pdb
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\obj\Debug\Arduino_RFid.vbproj.AssemblyReference.cache
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\obj\Debug\Interop.ADODB.dll
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\obj\Debug\Arduino_RFid.vbproj.ResolveComReference.cache
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\obj\Debug\Arduino_RFid.Form1.resources
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\obj\Debug\Arduino_RFid.Resources.resources
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\obj\Debug\Arduino_RFid.vbproj.GenerateResource.cache
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\obj\Debug\Arduino_RFid.vbproj.CoreCompileInputs.cache
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\bin\Debug\Arduino_RFid.exe.config
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\bin\Debug\Arduino_RFid.exe
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\bin\Debug\Arduino_RFid.pdb
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\bin\Debug\Arduino_RFid.xml
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\obj\Debug\Arduino_RFid.exe
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\obj\Debug\Arduino_RFid.xml
+C:\Users\44440053866.INFOSCS\Desktop\VB.Net-Arduino-RFID-SQL-Server\VB.NET\Arduino_RFid\obj\Debug\Arduino_RFid.pdb
